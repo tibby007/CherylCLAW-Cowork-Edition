@@ -39,4 +39,4 @@ Without this file, the agent asks you what to look for every time. With it, the 
 
 The free version of this soul file is generated from your onboarding interview answers.
 
-The paid CherylCLAW course includes Cheryl's full business intel soul template — including the metric frameworks she uses across commercial finance and AI services, her reporting format, and the alert triggers she runs in her own system. Visit [course link] to access it.
+This soul file is yours to customize. Run the Jordan onboarding interview to auto-populate your specific context, voice, and business details.

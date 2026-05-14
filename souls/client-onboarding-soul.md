@@ -39,4 +39,4 @@ Without this file, the agent produces generic onboarding content. With it, every
 
 The free version of this soul file is generated from your onboarding interview answers.
 
-The paid CherylCLAW course includes Cheryl's full client onboarding soul template — including the welcome sequence structure, intake architecture, and client experience standards she uses across Commercial Capital Connect, AI Marvels, and EmergeStack. Visit [course link] to access it.
+This soul file is yours to customize. Run the Jordan onboarding interview to auto-populate your specific context, voice, and business details.

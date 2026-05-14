@@ -39,4 +39,4 @@ Without this file configured, every research request starts from scratch. With i
 
 The free version of this soul file is generated from your onboarding interview answers.
 
-The paid CherylCLAW course includes Cheryl's full research soul template — including the industry framing, competitor mapping structure, and delivery format she uses across her AI training and commercial finance businesses. Visit [course link] to access it.
+This soul file is yours to customize. Run the Jordan onboarding interview to auto-populate your specific context, voice, and business details.

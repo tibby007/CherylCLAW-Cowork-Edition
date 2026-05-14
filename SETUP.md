@@ -131,13 +131,16 @@ Agents read their soul files on every execution, so changes take effect immediat
 
 ---
 
-## Upgrading to the Full System
+## Support & Updates
 
-This free repo gives you the architecture — the folder structure, the skill framework, and the onboarding interview. Your soul files are generated from your answers.
+You have lifetime access to this repository. Future updates — new agents, refined soul prompts, additional tool configurations — will be pushed here and available to all licensed buyers automatically.
 
-The paid course gives you Cheryl's battle-tested soul prompts — the specific language, structure, and context she uses in her own EA system, refined through real use across her three businesses.
+If you have questions about setup or need help deploying an agent, reach out directly:
 
-To upgrade: visit [course link] and use code [access code] to unlock the full soul pack and the installable .plugin version of CherylCLAW.
+**Email:** cheryltibbs007@gmail.com
+**Website:** aimarvelshub.com
+
+For Agency License holders: use this email to schedule your 60-minute onboarding call.
 
 ---
 

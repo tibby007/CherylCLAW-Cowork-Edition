@@ -40,4 +40,4 @@ Without this file, the agent has no ICP and no voice. It would write generic out
 
 The free version of this soul file is generated from your onboarding interview answers.
 
-The paid CherylCLAW course includes Cheryl's full outreach soul template — including the ICP frameworks she uses for commercial finance and AI automation, her outreach voice calibration, and her exact message red lines. Visit [course link] to access it.
+This soul file is yours to customize. Run the Jordan onboarding interview to auto-populate your specific context, voice, and business details.

@@ -100,5 +100,5 @@ zip -r /tmp/CherylCLAW-Cowork-Edition.zip CherylCLAW-Cowork-Edition/ && cp /tmp/
 - Cheryl's writing style: concise, no em dashes, laid-back and intelligent, no "y'all", no bullet-heavy responses
 - Unicode text formatting for all outputs per her preferences
 - All soul file descriptions should use the 8 descriptive role titles — never hardcode character names
-- The paid course upgrade path: students get the skeleton free, pay for Cheryl's soul prompts
+- CherylCLAW is a fully paid product — no free tier. Tiers: $497 Founder (25 seats), $997 Full Access, $2,500 Agency License (5-client deployment rights)
 - Luna build: tabled until Cheryl shares the repo — do not start from scratch

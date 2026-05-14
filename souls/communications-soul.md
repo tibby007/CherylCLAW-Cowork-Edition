@@ -39,4 +39,4 @@ This is the agent that handles the inbox overflow, the follow-ups that fall thro
 
 The free version of this soul file is generated from your onboarding interview answers.
 
-The paid CherylCLAW course includes Cheryl's full communications soul template — including relationship tier mapping, tone calibration by context, and the exact red lines she runs in her own system. Visit [course link] to access it.
+This soul file is yours to customize. Run the Jordan onboarding interview to auto-populate your specific context, voice, and business details.

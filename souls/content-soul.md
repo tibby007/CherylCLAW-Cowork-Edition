@@ -40,4 +40,4 @@ The soul file is also how the agent knows what NOT to say. If you told it you ne
 
 The free version of this soul file is generated from your onboarding interview answers.
 
-The paid CherylCLAW course includes Cheryl's full content soul template — the specific voice architecture, platform-by-platform tone guidance, and content pillar structure she uses across her three businesses. Visit [course link] to access it.
+This soul file is yours to customize. Run the Jordan onboarding interview to auto-populate your specific context, voice, and business details.

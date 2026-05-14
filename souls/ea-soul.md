@@ -40,4 +40,4 @@ Without this file configured, the Orchestrator operates with no context. With it
 
 The free version of this soul file is generated from your onboarding interview answers.
 
-The paid CherylCLAW course includes Cheryl's full EA soul template — the specific structure, prompting language, and context architecture she uses in her own system. Visit [course link] to access it.
+This soul file is yours to customize. Run the Jordan onboarding interview to auto-populate your specific context, voice, and business details.

@@ -39,4 +39,4 @@ Without this file, the agent produces generic prep docs. With it, it knows your 
 
 The free version of this soul file is generated from your onboarding interview answers.
 
-The paid CherylCLAW course includes Cheryl's full meeting soul template — including the prep formats she uses for different meeting types, her key contact architecture, and the action item system she runs across her businesses. Visit [course link] to access it.
+This soul file is yours to customize. Run the Jordan onboarding interview to auto-populate your specific context, voice, and business details.
