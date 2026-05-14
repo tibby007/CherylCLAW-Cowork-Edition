@@ -49,23 +49,25 @@ Tell Claude what you need. The EA Orchestrator handles the routing automatically
 
 ---
 
-## What Is Free vs. Gated
+## This Is a Premium System
 
-**This repo (free):**
-- Full framework and folder structure
-- All 8 agent skill definitions
-- The onboarding interview flow
-- Soul file templates showing the structure
-- Setup and usage documentation
+CherylCLAW: Cowork Edition is a **commercial product**. Access to this repository is granted to licensed buyers only.
 
-**Inside Cheryl's course (gated):**
-- Cheryl's battle-tested soul prompts for each agent
-- Advanced tool configurations (Blotato, Apollo, GHL, Instantly)
-- The `.plugin` file for one-click installation
+**What's included in your purchase:**
+- Complete folder structure and all 8 agent skill definitions
+- The onboarding interview flow (Jordan) that writes your custom soul files
+- Cheryl's battle-tested soul prompts for each agent — pre-loaded with real business context
+- Advanced tool configurations for Blotato, Apollo, GHL, and Instantly
+- The `.plugin` file for one-click Claude Cowork installation
 - Video walkthroughs for each agent
-- Community access and live Q&A
+- Setup and deployment documentation
 
-Learn more at [aimarvelshub.com] ← add your course link
+**License terms:**
+This repository is licensed for single-user use only. Redistribution, resale, sublicensing, or sharing of this repository or any of its contents — in whole or in part — is strictly prohibited without written permission from the author.
+
+Unauthorized sharing is traceable and will be pursued.
+
+To purchase access or learn more: [aimarvelshub.com] ← add your link
 
 ---
 
