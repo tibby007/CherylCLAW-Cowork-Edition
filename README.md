@@ -137,4 +137,4 @@ Member of BWAI, ABWA, BEFN, and AACFB. Credentialed by Google and Amazon for AI 
 
 MIT — use it, fork it, teach with it. Credit Cheryl Tibbs and CherylCLAW.
 
-*Coming soon: CherylCLAW VPS Edition — the always-on autonomous agent for advanced users.*
+
